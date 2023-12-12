@@ -19,6 +19,7 @@ id,name,created_at,advertisers_entities.id,entities.short_name,entities.is_activ
 6e82de39-93d4-4053-b88c-ba98a77584ae,Cllr Ossian Smyth,2022-08-16T15:25:06.541Z,ffc17043-9915-4d3b-b6b4-df474a70860c,Gre,true,true,Ireland,ie,1269409019742709,Cllr Ossian Smyth,Facebook
 6e8a88be-75a4-42d2-b49f-e23740a3ec2d,Anthony Murphy - Green Party Drogheda Rural,2023-07-13T12:39:55.625Z,5849375d-20b7-4957-85f9-5cb81fb7d165,Gre,true,true,Ireland,ie,113889060298882,Anthony Murphy - Green Party Drogheda Rural,Facebook
 6ead2af7-ad95-44f3-8df5-ae2eda81099f,Cllr. Louise Heavin,2022-08-16T15:25:06.947Z,45255bec-8578-4b1a-a8c3-2daaa3253e35,Gre,true,true,Ireland,ie,297704427846918,Cllr. Louise Heavin,Facebook
+7631f6f1-3b74-4aa2-bfe9-de6992071e73,Cllr Oisín O'Connor,2023-12-11T05:06:29.424Z,436b4691-d26b-47d9-877f-c862009dd40b,Gre,true,true,Ireland,ie,101485061855517,Cllr Oisín O'Connor,Facebook
 7e244675-99b4-4421-b5c9-166057a3ab5b,Feljin Jose - Cabra/Glasnevin,2023-10-03T05:06:37.233Z,d92529f6-4fb8-4342-9587-83f769ed78ae,Gre,true,true,Ireland,ie,123766320674785,Feljin Jose - Cabra/Glasnevin,Facebook
 815be3d2-9c7b-4f88-a4c6-c3c1ea910901,Roderic O`Gorman,2022-08-16T15:25:06.512Z,7be7069f-6958-458e-8ce1-64e79685c935,Gre,true,true,Ireland,ie,38729503137,Roderic O`Gorman,Facebook
 851cf193-035d-4ab7-9020-f77d2d540d07,Catherine Martin T.D.,2022-08-16T15:25:06.168Z,e6e5107e-dfee-4de9-a826-54573189db19,Gre,true,true,Ireland,ie,838467822836241,Catherine Martin T.D.,Facebook
@@ -89,6 +90,7 @@ ff21a85a-e79f-43c1-9f29-477d40b55c2a,Fingal County Council,2023-03-08T15:12:11.6
 1d59787f-f9bd-44c2-81da-f6ace9d4b9fb,Senator Micheál Carrigy,2023-05-02T06:52:45.678Z,70b8dfd4-2190-4c83-9c2d-d32f2517b33d,FG,true,true,Ireland,ie,248437575597525,Senator Micheál Carrigy,Facebook
 1e81370c-a3dd-4c55-9cee-e6cf1007ad7c,Sligo - Leitrim Fine Gael,2022-08-16T15:25:08.520Z,fd145b8e-6d70-4692-b383-a383ea6bf26a,FG,true,true,Ireland,ie,254734251316951,Sligo - Leitrim Fine Gael,Facebook
 1ee025b2-f395-4e15-af37-2d129566c771,Councillor David McManus,2023-03-08T14:42:34.699Z,e7dbcb61-5697-40df-b65a-9959cb84b775,FG,true,true,Ireland,ie,251780059050043,Councillor David McManus,Facebook
+24a96757-6e1f-4ca9-936b-5d22bbea7b06,Noel O'Donovan West Cork,2023-12-11T05:06:29.518Z,93de1a38-a751-4a72-8d71-f5264997c588,FG,true,true,Ireland,ie,152826084578997,Noel O'Donovan West Cork,Facebook
 29121cd0-7b29-404f-abb1-918795b761ff,Fine Gael Limerick City,2022-08-16T15:25:07.982Z,1fad71ae-e7ec-4534-bec4-7d7f30eb0fef,FG,true,true,Ireland,ie,137766716313436,Fine Gael Limerick City,Facebook
 2c578163-af7d-40af-8ae6-df67e1b3ef9e,Councillor Martin Harley,2022-08-16T15:25:08.037Z,0bd6a8ab-6029-4d11-b9a1-b0d9f977a187,FG,true,true,Ireland,ie,107082174065252,Councillor Martin Harley,Facebook
 2f11b11b-6343-4b49-8d0a-aabf70d62013,"Michelle Mc Kenna local Fine Gael Candidate, South Inishowen",2022-08-16T15:24:34.725Z,1a9d3360-f9d2-455f-a37a-deaca8ad65a1,FG,true,true,Ireland,ie,2077335492324938,"Michelle Mc Kenna local Fine Gael Candidate, South Inishowen",Facebook
@@ -235,7 +237,9 @@ b5f006aa-170e-4473-9765-24aadf0331cf,James Lawless TD,2022-08-16T15:25:07.775Z,b
 b8184d48-624a-46c1-b53b-a62fdb7102d1,Pat Casey TD,2022-08-16T15:25:08.371Z,37645a39-c085-4be2-9fe7-61a363025d30,FF,true,true,Ireland,ie,512028555814283,Pat Casey TD,Facebook
 b956028d-d7e7-4756-a205-4e879db23a86,Jim O`Callaghan TD,2022-08-16T15:25:09.106Z,44a346b9-09fd-4d5e-8249-41de964f7240,FF,true,true,Ireland,ie,911248388996518,Jim O`Callaghan TD,Facebook
 ba33bae8-e333-439e-9f76-d61979324435,Rita Mc Inerney,2022-08-16T15:25:05.513Z,a242cd27-ea57-4fb2-a24e-361d086a072c,FF,true,true,Ireland,ie,257855608201125,Rita Mc Inerney,Facebook
+ba71d3e3-c209-4157-acfc-1f27b34884ca,Simon Boyse,2023-12-12T05:07:38.790Z,6a6f3431-a078-4cc0-8c65-f942503a8e53,FF,true,true,Ireland,ie,161994320327259,Simon Boyse,Facebook
 bd9c7525-75c1-4d3b-b5a4-38cd7b74cfae,"Cllr. Shane Moynihan, Peace Commissioner",2023-02-07T15:06:03.523Z,6c8276d1-df0c-4a1d-ac4c-5c99e763c22d,FF,true,true,Ireland,ie,73631831272,"Cllr. Shane Moynihan, Peace Commissioner",Facebook
+be9354f8-85ae-43cc-a5fc-71aab43bee8e,Timmy Dooley,2023-12-11T05:06:29.487Z,4562cd8f-dfa4-48ac-90b1-a492a82db241,FF,true,true,Ireland,ie,548325818649568,Timmy Dooley,Facebook
 ca352794-7f97-4d1d-9caf-e7126db39a9a,Jack Chambers,2022-08-16T15:25:06.452Z,303f8731-2e12-4a27-83a6-cb3237f499e8,FF,true,true,Ireland,ie,286177884865240,Jack Chambers,Facebook
 cd2a6cb2-65a1-4ded-b3d3-d7a1c46b5fed,Niall Collins T.D.,2022-08-16T15:25:06.920Z,3e59a31b-e3a2-4c1b-ad48-f23e5a177041,FF,true,true,Ireland,ie,365558726793635,Niall Collins T.D.,Facebook
 ce762430-4713-401f-bd1a-5ef816d0b19f,Alan Cheevers Fianna Fáil,2022-08-16T15:24:31.834Z,dfe21ff6-b901-47ec-81a3-f8f5fb81136a,FF,true,true,Ireland,ie,1442888842513797,Alan Cheevers Fianna Fáil,Facebook
