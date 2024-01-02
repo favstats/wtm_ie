@@ -2,8 +2,10 @@ id,name,created_at,advertisers_entities.id,entities.short_name,entities.is_activ
 0694517c-562a-443e-bf20-4de617f01ce4,Green Party Ireland,2022-08-16T15:25:07.993Z,d09527c0-d385-4f0c-82d3-e8db5e21546f,Gre,true,true,Ireland,ie,108339693065,Green Party Ireland,Facebook
 12ff7f19-308f-4958-8059-a7a3847f3eb4,Neasa Hourigan Green Party,2023-02-28T10:53:09.815Z,11729bd6-eb26-44d0-a4a5-e5bb598bdcbe,Gre,true,true,Ireland,ie,1353131934798813,Neasa Hourigan Green Party,Facebook
 16f87b28-678e-4fc4-818f-fe46c5fb97d3,Green Party Dublin Central Branch,2022-08-16T15:25:07.899Z,b735573a-6a57-4eaa-abda-d2ffb8142302,Gre,true,true,Ireland,ie,2028696560493421,Green Party Dublin Central Branch,Facebook
+1ba92d89-8636-4b1f-a119-d43f0846f4dc,Ray Cunningham - Green Party,2024-01-02T05:06:23.534Z,e9ad7af3-1ebd-4d48-9d31-18b3fece9dd6,Gre,true,true,Ireland,ie,184549404735920,Ray Cunningham - Green Party,Facebook
 1d6c18a9-b361-46d0-9d1a-7a1a56acb880,Sen. Róisín Garvey,2023-02-07T15:06:03.528Z,8148954e-0d25-4c9f-b5a4-861ee4ec87a5,Gre,true,true,Ireland,ie,2013340148967588,Sen. Róisín Garvey,Facebook
 29630747-d8bf-4886-850f-831e7505995b,Cllr Ian Carey - Green Party Swords,2023-02-13T10:53:09.150Z,dc2a72f1-5163-4b72-96c5-51da2ccc539b,Gre,true,true,Ireland,ie,803717456660395,Cllr Ian Carey - Green Party Swords,Facebook
+2ca7dfe0-4161-4bc4-8134-7b10ba12217e,"Cllr Karen Power - Balbriggan, Balrothery, Loughshinny and Skerries",2023-12-19T05:06:21.471Z,6108b75d-85ef-4002-85ef-7ddb442a24f3,Gre,true,true,Ireland,ie,105319747671976,"Cllr Karen Power - Balbriggan, Balrothery, Loughshinny and Skerries",Facebook
 3029b093-e996-4f27-ae88-ee15853e43bc,Louth and East Meath Greens,2022-08-16T15:25:08.372Z,736837bb-fb1e-46d1-8fe0-af65b2528ea5,Gre,true,true,Ireland,ie,1064912386941102,Louth and East Meath Greens,Facebook
 34b33076-d811-41a2-b05b-26dee77eca7d,Mark Dearey -Louth East Meath,2022-08-16T15:25:06.960Z,6e80cd21-baa4-4a70-bd7f-64f4c22e4116,Gre,true,true,Ireland,ie,1006790482726287,Mark Dearey -Louth East Meath,Facebook
 35152845-0fc3-4df8-9e84-73bf46d39e66,Pauline O`Reilly - Green Party,2022-08-16T15:25:08.670Z,89dcbeeb-e9ed-4e1c-898c-2b1d8d7180c8,Gre,true,true,Ireland,ie,507921412901472,Pauline O`Reilly - Green Party,Facebook
@@ -99,6 +101,7 @@ ff21a85a-e79f-43c1-9f29-477d40b55c2a,Fingal County Council,2023-03-08T15:12:11.6
 3cd08cdc-237c-48dd-a186-8b25a3ca040d,Minister Paul Kehoe TD,2022-08-16T15:25:08.545Z,5e107cd5-1c53-4d76-b144-27ea8e363e8d,FG,true,true,Ireland,ie,94632597137,Minister Paul Kehoe TD,Facebook
 3d48e686-e0b7-45e2-9f0e-91adf3242ee3,Cllr. Emer Higgins,2022-08-16T15:25:06.070Z,a3b5fbf5-386d-4aab-95ba-5b300d5a7d33,FG,true,true,Ireland,ie,680383782013115,Cllr. Emer Higgins,Facebook
 3e03241d-0d58-42fa-aa0b-8aa9d86d359a,Michael Creed,2022-08-16T15:25:05.634Z,c00f6d33-838e-4211-8627-2d26034ec620,FG,true,true,Ireland,ie,444679852361151,Michael Creed,Facebook
+3e17bf9f-d38b-4ef2-9f52-763b58d6b4b0,Cllr. Siobhan Shovlin,2023-12-29T05:06:42.599Z,4e89f5e5-b756-4b1c-bbd8-3ce6303b6061,FG,true,true,Ireland,ie,2185454871561991,Cllr. Siobhan Shovlin,Facebook
 3ec065c7-9ae6-43be-9dbf-0e398c53d310,Sarah Reilly,2022-08-16T15:25:07.130Z,1d1cd25b-f918-47dc-a1c9-f5281745458b,FG,true,true,Ireland,ie,341914919905971,Sarah Reilly,Facebook
 3f7c6260-8536-44c9-949d-5842cb0dc1f6,Senator Neale Richmond,2022-08-16T15:25:06.168Z,2a483c4c-d0c3-4595-b0ab-1657cd257d85,FG,true,true,Ireland,ie,105371130989285,Senator Neale Richmond,Facebook
 4275c5ed-a5bb-4243-8f4f-9a4965f6c9d7,Senator Gab McFadden,2022-08-16T15:25:06.948Z,0951e865-75b3-4427-9dfc-86cc17d08a55,FG,true,true,Ireland,ie,448309798634823,Senator Gab McFadden,Facebook
@@ -111,6 +114,7 @@ ff21a85a-e79f-43c1-9f29-477d40b55c2a,Fingal County Council,2023-03-08T15:12:11.6
 6dcda7f3-e817-4994-a75f-ab15e2fa009d,Cllr Karen Coakley #GE20 West Cork,2022-08-16T15:25:05.751Z,02ea10bd-91b4-487f-bfa9-ac02307d4e98,FG,true,true,Ireland,ie,2268362323272028,Cllr Karen Coakley #GE20 West Cork,Facebook
 6f9f1e55-cedb-4b2e-9352-f93de1baa6eb,Alan Farrell TD,2022-08-16T15:25:08.678Z,5add22c5-1dba-472d-92cf-f7d552100dad,FG,true,true,Ireland,ie,502689826503669,Alan Farrell TD,Facebook
 719a9950-6cb1-46ba-a113-e15cc6667052,Hildegarde Naughton T.D.,2022-08-16T15:25:06.651Z,c34ee96e-6076-4b35-b2ae-1e229ae83da4,FG,true,true,Ireland,ie,596178707129392,Hildegarde Naughton T.D.,Facebook
+7a4e864e-eb4e-42e8-be8d-d002657a06b4,Cllr. Jimmy Kavanagh,2024-01-01T05:06:25.642Z,28ecec43-da68-4dcc-9ed8-e4c25091b010,FG,true,true,Ireland,ie,630758053656615,Cllr. Jimmy Kavanagh,Facebook
 7de7f658-f3d1-4971-bda1-e0f6f7a5438a,Ciaran Cannon,2022-08-16T15:25:06.543Z,8224b249-d240-4973-b1e8-71d000d1596e,FG,true,true,Ireland,ie,287213972229,Ciaran Cannon,Facebook
 8df83f5d-b12f-4c40-b32c-16e484381cfc,John Paul O` Shea,2022-08-16T15:25:05.632Z,9a73333e-6402-4c81-8b6b-a7b7b764b7c7,FG,true,true,Ireland,ie,183888225295134,John Paul O` Shea,Facebook
 8e3897da-d4d3-4609-8f00-14a1c60a004e,Minister Josepha Madigan,2022-08-16T15:25:06.164Z,d1811f7f-e4a9-456e-b3c7-8ed9c95a8775,FG,true,true,Ireland,ie,178623759006364,Minister Josepha Madigan,Facebook
@@ -400,4 +404,5 @@ e94ce1e3-ca82-4494-90a1-3637b2b6d20f,Independent Alliance,2022-08-16T15:23:52.28
 f12aa553-ad96-4f63-a57c-1c419f5e7d3e,Cllr Padraig McEvoy,2023-07-04T06:16:01.899Z,e35ed775-d9f2-4466-bad6-df810eb51076,Ind,true,true,Ireland,ie,440462232754663,Cllr Padraig McEvoy,Facebook
 f5b56d4d-09de-49ab-89e9-0b437cc7aa0b,Cllr Alan Coleman,2022-08-16T15:25:05.768Z,7cd7e35c-bfa8-4bc7-8d07-b1af84a2eedf,Ind,true,true,Ireland,ie,1420449784879498,Cllr Alan Coleman,Facebook
 fbb3c1b2-20ba-42ef-a24b-3c46351d932c,Cllr Declan Clune,2023-06-13T06:52:53.719Z,7fa0ff1d-baa7-4748-9b3d-55455bfbf31d,Ind,true,true,Ireland,ie,199155597385713,Cllr Declan Clune,Facebook
+fcf3d9b1-52f7-4f95-a873-a7bfbf7d478a,Pauline Flanagan née Madigan Vote No 1,2023-12-31T05:06:41.447Z,a6bb8c65-da73-442a-af75-069375510007,Ind,true,true,Ireland,ie,191809070673121,Pauline Flanagan née Madigan Vote No 1,Facebook
 0bcdd1ce-8933-4554-be25-698081a1a98b,Michael O'Dowd,2023-08-11T05:08:49.498Z,83b04526-d072-4dd4-9373-b62f4cd67fca,AON,true,true,Ireland,ie,878147035569806,Michael O'Dowd,Facebook
